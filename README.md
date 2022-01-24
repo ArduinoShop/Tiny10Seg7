@@ -13,7 +13,7 @@ I have small development boards for the ATtiny10 on my store - [10LED](https://a
                                                               - [10Rst](https://arduinoshop.ca/attiny/attiny10rst)
                                                               - [10spi](https://arduinoshop.ca/attiny/attiny10spi)
 
-An 8 digit 7 segment LED tube is available [here](https://arduinoshop.ca/displays/led08010)
+An 8 digit 7 segment LED tube is available [here](https://arduinoshop.ca/attiny/debug10)
 
 I also have an [USBasp](https://arduinoshop.ca/accs/usbasp) with the updated firmware to program the ATtiny10 using TPI.
 
