@@ -9,10 +9,12 @@ An example file is included in which the ATtiny10 is used as a rendom number gen
 
 I used <a href="https://github.com/technoblogy/attiny10core" target="_blank"> technoblogy's </a> excellent boards package fore the ATtiny10 family of MCUs.
 
-I have small development boards for the ATtiny10 on my store - 
+I have small development boards for the ATtiny10 on my store - [10LED](https://arduinoshop.ca/attiny/attiny10led)
+                                                              - [10Rst](https://arduinoshop.ca/attiny/attiny10rst)
+                                                              - [10spi](https://arduinoshop.ca/attiny/attiny10spi)
 
-An 8 digit 7 segment LED tube is available at
+An 8 digit 7 segment LED tube is available [here](https://arduinoshop.ca/displays/led08010)
 
-I also have USBasps with the updated firmware to program the ATtiny10 directly.
+I also have an [USBasp](https://arduinoshop.ca/accs/usbasp) with the updated firmware to program the ATtiny10 using TPI.
 
-Comment and questions are always welcome..
+Comments and questions are always welcome..
